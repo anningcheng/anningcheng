@@ -1,20 +1,25 @@
-### Hi there 👋
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+# 你好，我是 Cheng Anning 👋
 
-- 🕹 I'm Cheng Anning, a Web Developer in HeFei, China.
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-%23E0234E.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-990000?logo=php&logoColor=white&style=for-the-badge)
-  ![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-### 📈 GitHub Stats
+Web 开发者，使用 Java / Spring Boot、Vue / TypeScript 构建业务应用，也做实用的桌面工具。
 
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZhiZunJava?cardType=level&theme=vue&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[个人博客](https://www.lemoncoder.cn/) · [全部仓库](https://github.com/ZhiZunJava?tab=repositories)
 
-### 📈 Activity Graph:
+## 项目精选
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZhiZunJava&theme=github-compact)](https://github-readme-activity-graph.vercel.app/graph?username=ZhiZunJava&theme=github-compact)
+| 项目 | 简介 | 技术 |
+| --- | --- | --- |
+| [carbon-next](https://github.com/ZhiZunJava/carbon-next) | 双碳管理系统后端 | Java · Spring Boot 3 |
+| [carbon-next-admin](https://github.com/ZhiZunJava/carbon-next-admin) | 双碳管理系统管理端 | Vue 3 |
+| [network-dialer](https://github.com/ZhiZunJava/network-dialer) | Windows 宽带拨号管理工具，支持自动重连、系统托盘和连接状态监控 | Tauri 2 · React · TypeScript · Rust |
+| [water_law_exam_backend](https://github.com/ZhiZunJava/water_law_exam_backend) | 水行政执法系统后端 | Java |
+
+## 技术与方向
+
+- **业务应用**：Java、Spring Boot、Vue、TypeScript
+- **桌面工具**：React、Tauri、Rust
+- **其他技术**：Node.js、Python、PHP、Vite
+
+## 找到我
+
+- 博客：[lemoncoder.cn](https://www.lemoncoder.cn/)
+- 项目交流：欢迎在对应仓库的 Issues 中讨论使用问题与改进建议。
