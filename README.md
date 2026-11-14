@@ -9,5 +9,5 @@ Web 开发者，使用 Java / Spring Boot、Vue / TypeScript 构建业务应用�
 - **其他技术**：Node.js、Python、PHP、Vite
 
 ## 找到我
-
+- 微信：litheme2024
 - 项目交流：欢迎在对应仓库的 Issues 中讨论使用问题与改进建议。
